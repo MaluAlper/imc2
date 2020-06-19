@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\bin\Debug\netcoreapp3.1\imc2.exe
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\bin\Debug\netcoreapp3.1\imc2.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\bin\Debug\netcoreapp3.1\imc2.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\bin\Debug\netcoreapp3.1\imc2.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\bin\Debug\netcoreapp3.1\imc2.dll
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\bin\Debug\netcoreapp3.1\imc2.pdb
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\obj\Debug\netcoreapp3.1\imc2.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\obj\Debug\netcoreapp3.1\imc2.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\obj\Debug\netcoreapp3.1\imc2.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\obj\Debug\netcoreapp3.1\imc2.dll
+C:\Users\Maria Luiza\Documents\Luiza\imc2\imc2\obj\Debug\netcoreapp3.1\imc2.pdb
